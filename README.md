@@ -1,2 +1,5 @@
-# 2026-02-ppgi-ia-trabalho-final
-Trabalho Final da Disciplina de IA, PPGI, Unirio
+# Trabalho Final - Disciplina de IA - PPGI - Unirio
+
+* Bruce Notario
+* Marcus Monteiro
+* Patricia Santos
