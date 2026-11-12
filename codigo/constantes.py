@@ -1,8 +1,11 @@
 ENDERECO_DATASET_PENSE = "../dados/brutos/PENSE2024_MICRODADOS.csv"
 ENDERECO_DICIONARIO_MICRODADOS_PENSE = "../documentacao/pense_2024_documentacao/Dicionário Microdados PeNSE2024.xlsx"
+
 ENDERECO_GERACAO_RESUMO_SIGNIFICADO_VARIAVEIS = '../dados/em_processamento/resumo_significado_variaveis.txt'
 ENDERECO_GERACAO_RESUMO_SIGNIFICADO_VARIAVEIS_DEPENDENTES = '../dados/em_processamento/resumo_significado_variaveis_dependentes.txt'
 ENDERECO_GERACAO_RESUMO_SIGNIFICADO_VARIAVEIS_INDEPENDENTES = '../dados/em_processamento/resumo_significado_variaveis_independentes.txt'
+
+ENDERECO_DADOS_PREPARADOS = '../dados/em_processamento/dados_preparados.txt'
 
 VARIAVEIS_DEPENDENTES = ["B12005", "B12006", "B12007", "B12008", "B12009"]
 
