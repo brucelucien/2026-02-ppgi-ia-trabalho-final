@@ -1,0 +1,123 @@
+
+
+====================
+NOME:
+B12005
+
+DESCRIÇÃO:
+NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?
+
+CATEGORIA:
+1 - Nunca
+2 - Raramente
+3 - Às vezes
+4 - Na maioria das vezes
+5 - Sempre
+-2 - Abandono
+-9 - Sem resposta
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
+
+====================
+NOME:
+B12006
+
+DESCRIÇÃO:
+NOS ÚLTIMOS 30 DIAS, com que frequência você sentiu que ninguém se preocupa com você?
+
+CATEGORIA:
+1 - Nunca
+2 - Raramente
+3 - Às vezes
+4 - Na maioria das vezes
+5 - Sempre
+-2 - Abandono
+-9 - Sem resposta
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
+
+====================
+NOME:
+B12007
+
+DESCRIÇÃO:
+NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu irritado(a), nervoso(a) ou mal-humorado(a) por qualquer coisa?
+
+CATEGORIA:
+1 - Nunca
+2 - Raramente
+3 - Às vezes
+4 - Na maioria das vezes
+5 - Sempre
+-2 - Abandono
+-9 - Sem resposta
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
+
+====================
+NOME:
+B12008
+
+DESCRIÇÃO:
+NOS ÚLTIMOS 30 DIAS, com que frequência você sentiu que a vida não vale a pena ser vivida?
+
+CATEGORIA:
+1 - Nunca
+2 - Raramente
+3 - Às vezes
+4 - Na maioria das vezes
+5 - Sempre
+-2 - Abandono
+-9 - Sem resposta
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
+
+====================
+NOME:
+B12009
+
+DESCRIÇÃO:
+NOS ÚLTIMOS 12 MESES, alguma vez você sentiu vontade de se machucar de propósito?
+
+CATEGORIA:
+1 - Sim
+2 - Não
+-2 - Abandono
+-9 - Sem resposta
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
