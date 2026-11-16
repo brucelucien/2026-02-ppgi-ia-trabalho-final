@@ -30,7 +30,7 @@ VARIAVEIS_INDEPENDENTES = [
     "B04001",
     "B04002A",
     "B04003",
-    "B04009B",
+    #"B04009B", # questão sobre onde o aluno comprou cigarros. a questão não parece ser relevante para a predição.
     "B04012",
     "B04013",
     "B04014A",
