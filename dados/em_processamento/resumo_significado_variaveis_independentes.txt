@@ -2,6 +2,29 @@
 
 ====================
 NOME:
+REGIAO
+
+DESCRIÇÃO:
+código de regiões
+
+CATEGORIA:
+1 - norte
+2 - nordeste
+3 - sudeste
+4 - sul
+5 - centro-oeste
+
+TIPO:
+Num
+
+TAMANHO:
+8.0
+
+OBSERVAÇÕES:
+nan
+
+====================
+NOME:
 B01001A
 
 DESCRIÇÃO:
