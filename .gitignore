@@ -131,6 +131,7 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+
 # Redis
 *.rdb
 *.aof
@@ -217,3 +218,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 PLN_project/PLN/PLN.ipynb
+dados/*.txt

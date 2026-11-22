@@ -1,0 +1,244 @@
+codigo;descricao
+REGIAO;Região do país onde a escola está localizada
+UF;Unidade da Federação (estado) da escola
+CAPITAL;Indicador de escola situada em município de capital
+PESO_INICIAL;Peso amostral inicial do registro (usado nas estimativas de precisão)
+IND_EXPANSAO;Indicador de registro de aluno frequente (1) ou registro de expansão sem questionário (0)
+PESO_ALUNO_FREQ;Peso amostral final do aluno frequente
+POSEST;Grupo de pós-estratificação da amostra
+TOTAIS_POSEST;Totais populacionais usados na pós-estratificação
+ESTRATO_EXP;Estrato amostral
+ESCOLA;Identificação da escola (unidade primária de amostragem)
+TURMA;Identificação da turma (compõe a chave única do aluno)
+ALUNO;Identificação do aluno (compõe a chave única do aluno)
+ANO_TURMA;Ano escolar da turma segundo o cadastro da escola
+B01001A;Sexo do aluno
+IDADE_AGREG;Idade do estudante em faixas etárias
+B01002;Cor ou raça autodeclarada
+B01021B;Ano escolar que o aluno está cursando
+B01026A1;Planos do aluno ao concluir o Ensino Fundamental
+B01026A2;Planos do aluno ao concluir o Ensino Médio
+B01006;Moradia com a mãe
+B01007;Moradia com o pai
+B01010A;Número de moradores no domicílio
+B01014;Posse de telefone celular
+B01015B;Posse de computador ou notebook no domicílio
+B01016;Acesso à internet no domicílio
+B01017;Posse de carro por morador do domicílio
+B01018A;Posse de motocicleta por morador do domicílio
+B01019A;Número de banheiros completos no domicílio
+B01020A;Presença de empregado(a) doméstico(a) remunerado(a) no domicílio
+B01008B;Nível de escolaridade da mãe
+B02019A;Hábito de tomar café da manhã
+B02017A;"Hábito de almoçar ou jantar com mãe, pai ou responsável"
+B02018B;"Frequência de comer distraído (TV, computador ou celular) durante as refeições"
+B02028;Consumo de refrigerante no dia anterior
+B02029;Consumo de suco de fruta em caixinha ou lata no dia anterior
+B02030A;Consumo de suco em pó no dia anterior
+B02031;Consumo de bebida achocolatada no dia anterior
+B02032;Consumo de iogurte com sabor no dia anterior
+B02043;Consumo de água no dia anterior
+B02044;Quantidade de copos de água bebidos no dia anterior
+B02045;"Consumo de abóbora, cenoura, batata-doce ou quiabo no dia anterior"
+B02033;Consumo de salgadinho de pacote ou biscoito salgado no dia anterior
+B02046;"Consumo de arroz, macarrão, cuscuz ou milho no dia anterior"
+B02040;"Consumo de macarrão instantâneo, sopa de pacote ou prato pronto congelado no dia anterior"
+B02047;"Consumo de mamão, manga ou pequi no dia anterior"
+B0204d;"Consumo de balas, confeitos, chicletes ou pirulitos no dia anterior"
+B02049;"Consumo de laranja, banana, maçã ou abacaxi no dia anterior"
+B02035;"Consumo de chocolate, sorvete, gelatina ou sobremesa industrializada no dia anterior"
+B02050;Consumo de amendoim ou castanhas no dia anterior
+B02034;"Consumo de biscoito doce, biscoito recheado ou bolinho de pacote no dia anterior"
+B02051;"Consumo de alface, couve, brócolis, agrião ou espinafre no dia anterior"
+B02052;"Consumo de tomate, pepino, abobrinha, berinjela, chuchu ou beterraba no dia anterior"
+B02053;"Consumo de batata, mandioca, cará ou inhame no dia anterior"
+B02054;"Consumo de feijão, ervilha, lentilha ou grão-de-bico no dia anterior"
+B02036;"Consumo de salsicha, linguiça, mortadela ou presunto no dia anterior"
+B02055;"Consumo de carne bovina, suína, de frango ou peixe no dia anterior"
+B02056;Consumo de ovo no dia anterior
+B02037;"Consumo de pão de forma, de cachorro-quente ou de hambúrguer no dia anterior"
+B02038A;Consumo de margarina no dia anterior
+B02039;"Consumo de maionese, ketchup ou molhos industrializados no dia anterior"
+B02021B;Oferta de merenda pela escola à turma do aluno
+B02020B;Hábito de comer a merenda oferecida pela escola
+B02057;Existência de cantina na escola
+B02058;Presença de vendedores ambulantes no entorno da escola
+B02042A;Hábito de comprar alimentos ou bebidas de vendedores ambulantes ao redor da escola
+B03001A1;Deslocamento a pé ou de bicicleta para a escola (dias nos últimos 7 dias)
+B03002B1;Tempo gasto no trajeto de ida à escola a pé ou de bicicleta
+B03001A2;Deslocamento de volta da escola a pé ou de bicicleta (dias nos últimos 7 dias)
+B03002B2;Tempo gasto no trajeto de volta da escola a pé ou de bicicleta
+B03003B;Participação em aulas de educação física (dias nos últimos 7 dias)
+B03005C;Tempo diário de atividade física durante as aulas de educação física
+B03006B;Prática de atividade física fora das aulas de educação física (dias nos últimos 7 dias)
+B03007B;Duração diária da atividade física praticada fora das aulas de educação física
+B03009C;Tempo diário assistindo a plataformas de vídeo na televisão em dias de semana
+B03010C;"Tempo diário sentado (TV, videogame, computador, celular e outras atividades) em dias de semana"
+B04001;Experimentação de cigarro na vida
+B04002A;Idade da primeira experimentação de cigarro
+B04003;Frequência de fumo de cigarro nos últimos 30 dias
+B04009B;Forma de obtenção dos próprios cigarros nos últimos 30 dias
+B04010;Recusa de venda de cigarro por causa da idade nos últimos 30 dias
+B04012;Compra de cigarro avulso (por unidade) nos últimos 30 dias
+B04013;Experimentação de narguilé na vida
+B04014A;Experimentação de cigarro eletrônico ou vaper na vida
+B04015A;Experimentação de outros produtos do tabaco na vida
+B04011B01;Uso de outros produtos do tabaco nos últimos 30 dias: nenhum desses produtos
+B04011B02;Uso de outros produtos do tabaco nos últimos 30 dias: narguilé
+B04011B03;Uso de outros produtos do tabaco nos últimos 30 dias: cigarro eletrônico ou vaper
+B04011B04;Uso de outros produtos do tabaco nos últimos 30 dias: cigarro de cravo (Bali)
+B04011B05;Uso de outros produtos do tabaco nos últimos 30 dias: cigarro enrolado à mão
+B04011B06;Uso de outros produtos do tabaco nos últimos 30 dias: outros produtos
+B04006B;"Hábito de fumar da mãe, pai ou responsável"
+B04005A;Exposição à fumaça de cigarro em casa (dias nos últimos 7 dias)
+B04016;Exposição ao fumo de amigos na presença do aluno nos últimos 30 dias
+B05002A;Experimentação de bebida alcoólica na vida
+B05003A;Idade da primeira experimentação de bebida alcoólica
+B05007A;Episódios de embriaguez na vida
+B05009A;"Problemas com família, amigos, faltas às aulas ou brigas por causa de bebida alcoólica na vida"
+B05004A;Frequência de consumo de bebida alcoólica nos últimos 30 dias
+B05005A;Quantidade de copos ou doses por dia de consumo nos últimos 30 dias
+B05006C;Forma de obtenção da bebida alcoólica nos últimos 30 dias
+B05011;"Hábito de beber álcool da mãe, pai ou responsável"
+B05010A;Exposição ao consumo de álcool de amigos na presença do aluno nos últimos 30 dias
+B06001A;Uso de drogas ilícitas na vida
+B0600701;"Experimentação de drogas por grupo: cocaína, crack, merla, pasta base, oxi, metanfetamina, GHB ou ecstasy"
+B0600702;"Experimentação de drogas por grupo: maconha, haxixe ou heroína"
+B0600703;"Experimentação de drogas por grupo: LSD, DMT, MDMA ou cogumelos alucinógenos"
+B0600704;Experimentação de drogas por grupo: outras drogas
+B06002A;Idade da primeira experimentação de droga
+B06008;Tipo de droga usada pela primeira vez
+B06003B;Frequência de uso de drogas nos últimos 30 dias
+B06004A;Frequência de uso de maconha nos últimos 30 dias
+B06009;"Frequência de uso de outras drogas, exceto maconha, nos últimos 30 dias"
+B06006A;Exposição ao uso de drogas por amigos na presença do aluno nos últimos 30 dias
+B07001;Faltas às aulas sem permissão dos responsáveis nos últimos 30 dias
+B07002;Supervisão parental: conhecimento do que o aluno faz no tempo livre
+B07003;Acompanhamento dos pais ou responsáveis sobre as lições de casa
+B07004;Compreensão dos pais ou responsáveis sobre as preocupações e problemas do aluno
+B07005;Invasão de privacidade pelos pais (mexer nas coisas do aluno sem concordância)
+B07006;Acolhimento e apoio dos colegas de escola
+B07007B;Vítima de bullying (zombaria ou intimidação por colegas) nos últimos 30 dias
+B07008A01;Motivo do bullying sofrido: cor ou raça
+B07008A02;Motivo do bullying sofrido: religião
+B07008A03;Motivo do bullying sofrido: aparência do rosto ou do cabelo
+B07008A04;Motivo do bullying sofrido: aparência do corpo
+B07008A05;Motivo do bullying sofrido: identidade de gênero ou orientação sexual
+B07008A06;Motivo do bullying sofrido: sotaque ou jeito de falar
+B07008A07;Motivo do bullying sofrido: deficiência
+B07008A08;"Motivo do bullying sofrido: roupas, sapatos, mochila ou material escolar"
+B07008A09;Motivo do bullying sofrido: outros motivos
+B07008A10;Motivo do bullying sofrido: sem motivo ou motivo desconhecido
+B07011A;Vítima de exclusão social por colegas nos últimos 30 dias
+B07012A;Vítima de agressão física por colegas nos últimos 30 dias
+B07013;"Vítima de cyberbullying (ameaça, ofensa ou humilhação em redes sociais) nos últimos 30 dias"
+B07009;Prática de bullying contra colegas nos últimos 30 dias
+B0701401;Motivo do bullying praticado contra colegas: cor ou raça
+B0701402;Motivo do bullying praticado contra colegas: religião
+B0701403;Motivo do bullying praticado contra colegas: aparência do rosto ou do cabelo
+B0701404;Motivo do bullying praticado contra colegas: aparência do corpo
+B0701405;Motivo do bullying praticado contra colegas: identidade de gênero ou orientação sexual
+B0701406;Motivo do bullying praticado contra colegas: sotaque ou jeito de falar
+B0701407;Motivo do bullying praticado contra colegas: deficiência
+B0701408;"Motivo do bullying praticado contra colegas: roupas, sapatos, mochila ou material escolar"
+B0701409;Motivo do bullying praticado contra colegas: outros motivos
+B0701410;Motivo do bullying praticado contra colegas: sem motivo (fez porque quis)
+B07015;Agressão física praticada contra colegas nos últimos 30 dias
+B07016;"Prática de cyberbullying (ameaça, ofensa ou humilhação em redes sociais) nos últimos 30 dias"
+B12003;Número de amigos próximos
+B12004;Frequência de preocupação excessiva com coisas do cotidiano nos últimos 30 dias
+B12005;Frequência de tristeza nos últimos 30 dias
+B12006;Frequência da sensação de que ninguém se preocupa com o aluno nos últimos 30 dias
+B12007;"Frequência de irritação, nervosismo ou mau humor nos últimos 30 dias"
+B12008;Frequência da sensação de que a vida não vale a pena ser vivida nos últimos 30 dias
+B12009;Vontade de se machucar de propósito (autolesão) nos últimos 12 meses
+B08001;Início da vida sexual (já ter tido relação sexual)
+B08002;Idade da primeira relação sexual
+B08011A;Uso de camisinha na primeira relação sexual
+B08006A;Uso de camisinha na última relação sexual
+B08014;Forma de obtenção da camisinha usada na última relação sexual
+B08007;"Uso de outro método para evitar gravidez, além da camisinha, na última relação sexual"
+B08012B;Tipo de outro método usado para evitar gravidez na última relação sexual
+B08015;Uso de pílula do dia seguinte (contracepção de emergência) na vida
+B08016;Forma de obtenção da pílula do dia seguinte na última vez em que foi usada
+B08013A;Ocorrência de gravidez na vida do aluno (mesmo sem chegar ao fim)
+B08008A;Orientação recebida na escola sobre prevenção de gravidez
+B08009A;Orientação recebida na escola sobre prevenção de HIV/AIDS e outras ISTs
+B08010A;Orientação recebida na escola sobre como obter camisinha gratuitamente
+B10007;Frequência diária de lavagem das mãos com sabão ou sabonete
+B10008;Frequência diária de higienização das mãos com álcool
+B10001B;Frequência diária de escovação dos dentes
+B10002;Dor de dente (não causada por aparelho) nos últimos 6 meses
+B10003;Número de idas ao dentista nos últimos 12 meses
+B1000901;"Motivo da ida ao dentista nos últimos 12 meses: consulta de rotina; limpeza ou profilaxia"
+B1000902;Motivo da ida ao dentista nos últimos 12 meses: sangramento de gengiva
+B1000903;Motivo da ida ao dentista nos últimos 12 meses: tratamento de cáries ou troca de restaurações
+B1000904;Motivo da ida ao dentista nos últimos 12 meses: ferida na boca
+B1000905;Motivo da ida ao dentista nos últimos 12 meses: ortodontia ou uso de aparelho
+B1000906;Motivo da ida ao dentista nos últimos 12 meses: fratura ou quebra de dente
+B1000907;Motivo da ida ao dentista nos últimos 12 meses: outros motivos
+B1000908;Motivo da ida ao dentista nos últimos 12 meses: não sabe ou não lembra
+B10010;Orientação recebida de profissional de saúde sobre higiene bucal correta
+B10011;Falta à escola por falta de absorvente ou item de higiene menstrual nos últimos 12 meses
+B09006A1;Uso de cinto de segurança no banco da frente nos últimos 30 dias
+B09006A2;Uso de cinto de segurança no banco de trás nos últimos 30 dias
+B09007A;Uso de capacete ao andar de motocicleta nos últimos 30 dias
+B09008;Direção de veículo motorizado nos últimos 30 dias
+B09009;Carona com motorista que havia consumido bebida alcoólica nos últimos 30 dias
+B09019;Carona com motorista que usava o celular ao dirigir nos últimos 30 dias
+B09001;Faltas à escola por insegurança no trajeto entre casa e escola nos últimos 30 dias
+B09002;Faltas à escola por insegurança dentro da escola nos últimos 30 dias
+B09011A;Envolvimento em briga com luta física nos últimos 30 dias
+B09004;Envolvimento em briga com arma de fogo nos últimos 30 dias
+B09005;"Envolvimento em briga com outra arma (faca, pedra, pau, garrafa) nos últimos 30 dias"
+B09012A1;Acidente ou agressão sofridos nos últimos 12 meses
+B09012A2;Impedimento de atividades habituais por acidente ou agressão
+B09012A3;Busca de serviço de saúde em razão de acidente ou agressão
+B09013B;Tipo do ferimento ou lesão mais grave sofrido no acidente ou agressão
+B09014B;Causa principal do ferimento ou lesão mais grave
+B09003A;"Agressão física por mãe, pai ou responsável nos últimos 12 meses"
+B09010A1;"Agressão física por outra pessoa, que não mãe, pai ou responsável, nos últimos 12 meses"
+B09010B201;"Autor da agressão física (exceto mãe, pai ou responsável): desconhecido(a)"
+B09010B202;"Autor da agressão física (exceto mãe, pai ou responsável): policial"
+B09010B203;"Autor da agressão física (exceto mãe, pai ou responsável): profissional da escola"
+B09010B204;"Autor da agressão física (exceto mãe, pai ou responsável): namorado(a), ex-namorado(a), ficante ou crush"
+B09010B205;"Autor da agressão física (exceto mãe, pai ou responsável): amigo(a)"
+B09010B206;"Autor da agressão física (exceto mãe, pai ou responsável): outros familiares"
+B09010B207;"Autor da agressão física (exceto mãe, pai ou responsável): outro conhecido"
+B09016A1;"Violência sexual: toque, manipulação, beijo ou exposição do corpo contra a vontade (na vida)"
+B09017B101;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: desconhecido(a)"
+B09017B102;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: namorado(a), ex-namorado(a), ficante ou crush"
+B09017B103;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: amigo(a)"
+B09017B104;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: pai, mãe, padrasto ou madrasta"
+B09017B105;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: outros familiares"
+B09017B106;"Autor do toque, manipulação, beijo ou exposição do corpo contra a vontade: outro conhecido"
+B09016A2;"Violência sexual: ameaça, intimidação ou coação para ato sexual contra a vontade (na vida)"
+B09017B201;Autor da ameaça ou coação para ato sexual contra a vontade: desconhecido(a)
+B09017B202;"Autor da ameaça ou coação para ato sexual contra a vontade: namorado(a), ex-namorado(a), ficante ou crush"
+B09017B203;Autor da ameaça ou coação para ato sexual contra a vontade: amigo(a)
+B09017B204;"Autor da ameaça ou coação para ato sexual contra a vontade: pai, mãe, padrasto ou madrasta"
+B09017B205;Autor da ameaça ou coação para ato sexual contra a vontade: outros familiares
+B09017B206;Autor da ameaça ou coação para ato sexual contra a vontade: outro conhecido
+B09018;Idade na primeira vez em que sofreu coação para ato sexual
+B13005;Autoavaliação do estado de saúde
+B13006;Faltas à escola por motivo de saúde nos últimos 12 meses
+B13001;Procura por serviço ou profissional de saúde nos últimos 12 meses
+B13002B;Serviço de saúde procurado com mais frequência
+B13003A;Número de procuras por Unidade Básica de Saúde nos últimos 12 meses
+B13004B;Atendimento na última procura por Unidade Básica de Saúde
+B13007A;Motivo principal da última procura por Unidade Básica de Saúde
+B13009A;Vacinação contra o HPV
+B13012;Motivo de não ter sido vacinado contra o HPV
+B13013;Vacinação contra a COVID
+B13014;Motivo de não ter sido vacinado contra a COVID
+B11007;Satisfação com o próprio corpo
+B11001A;Autopercepção da imagem corporal (como o aluno considera o próprio corpo)
+B11002;Atitude em relação ao próprio peso
+B16001A01;Opinião sobre o questionário: fácil
+B16001A02;Opinião sobre o questionário: difícil
+B16001A03;Opinião sobre o questionário: chato
+B16001A04;Opinião sobre o questionário: legal
+B16001A05;Opinião sobre o questionário: interessante
+B16001A06;Opinião sobre o questionário: informativo
+B16001A07;Opinião sobre o questionário: cansativo
+B16001A08;Opinião sobre o questionário: constrangedor
